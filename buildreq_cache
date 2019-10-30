@@ -1,0 +1,8 @@
+0.020
+perl(Config::INI::Reader)
+perl(Data::OptList)
+perl(Mixin::Linewise::Readers)
+perl(Params::Util)
+perl(PerlIO::utf8_strict)
+perl(Sub::Exporter)
+perl(Sub::Install)
