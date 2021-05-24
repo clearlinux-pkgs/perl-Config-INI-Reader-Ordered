@@ -4,7 +4,7 @@
 #
 Name     : perl-Config-INI-Reader-Ordered
 Version  : 0.020
-Release  : 10
+Release  : 11
 URL      : https://cpan.metacpan.org/authors/id/R/RJ/RJBS/Config-INI-Reader-Ordered-0.020.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/R/RJ/RJBS/Config-INI-Reader-Ordered-0.020.tar.gz
 Summary  : '.ini-file parser that returns sections in order'
