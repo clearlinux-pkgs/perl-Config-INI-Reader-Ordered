@@ -4,7 +4,7 @@
 #
 Name     : perl-Config-INI-Reader-Ordered
 Version  : 0.021
-Release  : 16
+Release  : 17
 URL      : https://cpan.metacpan.org/authors/id/R/RJ/RJBS/Config-INI-Reader-Ordered-0.021.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/R/RJ/RJBS/Config-INI-Reader-Ordered-0.021.tar.gz
 Summary  : '.ini-file parser that returns sections in order'
@@ -98,4 +98,4 @@ find %{buildroot} -type f -name '*.bs' -empty -exec rm -f {} ';'
 
 %files perl
 %defattr(-,root,root,-)
-/usr/lib/perl5/vendor_perl/5.34.0/Config/INI/Reader/Ordered.pm
+/usr/lib/perl5/*
